@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Core.Entities;
 using Core.Specifications;
-using Infrastrucure.Data;
+using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data

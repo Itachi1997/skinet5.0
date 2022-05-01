@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
 using Core.Entities;
-using Infrastrucure.Data;
+using Infrastructure.Data;
 using Microsoft.Extensions.Logging;
 
 namespace Infrastructure.Data
